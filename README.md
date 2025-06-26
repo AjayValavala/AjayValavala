@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AjayValavala
-- 👀 I’m interested in ... AWS and ML
+- 👀 I’m interested in ... FullStack and AWS
 - 🌱 I’m currently learning ... persuing B.Tech
 - 📫 How to reach me ... mail:-valavalasatyasaiajay@gmail.com
 
