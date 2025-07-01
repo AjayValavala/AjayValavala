@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... FullStack and AWS
 - 🌱 I’m currently learning ... persuing B.Tech
 - 📫 How to reach me ... mail:-valavalasatyasaiajay@gmail.com
--                         ph:- 8331915228
+                          ph:- 8331915228
 
 <!---
 AjayValavala/AjayValavala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
